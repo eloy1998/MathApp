@@ -43,6 +43,16 @@ GIF created with **your chosen GIF tool**
     <a href="https://www.loom.com/share/f6dc150190d04d47b4103c95ab015163">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f6dc150190d04d47b4103c95ab015163-18da232f1b8dbb4c-full-play.gif">
     </a>
+    <div>
+    <a href="https://www.loom.com/share/f6dc150190d04d47b4103c95ab015163">
+      <p>Windows App - Apps - 24 October 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/f6dc150190d04d47b4103c95ab015163">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f6dc150190d04d47b4103c95ab015163-18da232f1b8dbb4c-full-play.gif">
+    </a>
+  </div>
+
+  <div style="position: relative; padding-bottom: 64.86486486486486%; height: 0;"><iframe src="https://www.loom.com/embed/f6dc150190d04d47b4103c95ab015163?sid=616efe48-bffe-4e79-8c26-f01bdaf5bb62" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
  
 ## Notes
 
