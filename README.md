@@ -37,9 +37,13 @@ Here's a video / GIF that demos all of the app's implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
-
-src="https://www.loom.com/embed/f6dc150190d04d47b4103c95ab015163?sid=9c41ab7a-be12-42d5-9317-eae02ba20fac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-
+    <a href="https://www.loom.com/share/f6dc150190d04d47b4103c95ab015163">
+      <p>Windows App - Apps - 24 October 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/f6dc150190d04d47b4103c95ab015163">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f6dc150190d04d47b4103c95ab015163-18da232f1b8dbb4c-full-play.gif">
+    </a>
+ 
 ## Notes
 
 Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
