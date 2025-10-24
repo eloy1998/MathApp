@@ -38,10 +38,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 GIF created with **your chosen GIF tool**
 
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
+<iframe src="https://www.loom.com/embed/f6dc150190d04d47b4103c95ab015163?sid=9c41ab7a-be12-42d5-9317-eae02ba20fac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 
 ## Notes
 
