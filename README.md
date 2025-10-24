@@ -38,14 +38,12 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 GIF created with **your chosen GIF tool**
     <a href="https://www.loom.com/share/f6dc150190d04d47b4103c95ab015163">
-      <p>Windows App - Apps - 24 October 2025 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/f6dc150190d04d47b4103c95ab015163">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f6dc150190d04d47b4103c95ab015163-18da232f1b8dbb4c-full-play.gif">
     </a>
     <div>
     <a href="https://www.loom.com/share/f6dc150190d04d47b4103c95ab015163">
-      <p>Windows App - Apps - 24 October 2025 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/f6dc150190d04d47b4103c95ab015163">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f6dc150190d04d47b4103c95ab015163-18da232f1b8dbb4c-full-play.gif">
